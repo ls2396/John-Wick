@@ -1,7 +1,7 @@
 {
     "name": "my-food-tracker",
     "version": "1.0.0",
-    "description": "A food recognition UI project",
+    "description": "John-Wick",
     "scripts": {
       "start": "live-server src"
     },

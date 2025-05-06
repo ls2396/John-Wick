@@ -1,0 +1,14 @@
+{
+    "name": "my-food-tracker",
+    "version": "1.0.0",
+    "description": "A food recognition UI project",
+    "scripts": {
+      "start": "live-server src"
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+  }
+  
